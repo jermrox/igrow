@@ -1,0 +1,11 @@
+{
+  "name": "igrow-agents-implementations",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Runnable OpenAI function-calling implementations of the 6 iGrow pipeline agents.",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.67.3"
+  }
+}
