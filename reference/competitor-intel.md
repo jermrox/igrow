@@ -86,3 +86,7 @@ Note: **Yoodli** appears on both lists — it straddles AI speech coaching and c
 | 2026-09-22 | Rocky.ai | White-label AI coaching & personal-development platform (leadership, growth) with roleplay coaching | https://www.linkedin.com/company/rocky-ai | Coaching platform | Coaching / L&D |
 | 2026-09-22 | FullyRamped | Voice-AI sales roleplay + real-time coaching (Practice Prospects) to ramp reps (founded 2024) | UNVERIFIED — company LinkedIn page not found via search; resolve next sweep | Sales roleplay | AI roleplay / speech / sales |
 | 2026-09-22 | Trellus | AI dialer with real-time cold-call coaching for sales teams (YC W22) | https://www.linkedin.com/company/trytrellus | Conversation intelligence | AI roleplay / speech / sales |
+| 2026-09-22 | Bunch | AI leadership-coaching app: 2-minute daily leadership tips for new managers | https://www.linkedin.com/company/bunchai | Coaching platform | Coaching / L&D |
+| 2026-09-22 | Practica | AI + human career coaching/mentorship (acquired by BetterUp) | https://www.linkedin.com/company/practicahq | Coaching platform | Coaching / L&D |
+| 2026-09-22 | Sana Labs | AI-native learning/L&D platform (now part of Workday) | https://www.linkedin.com/company/sana-labs | L&D platform | Coaching / L&D |
+| 2026-09-22 | Huru | AI job-interview prep app (20k+ questions, STAR); LinkedIn showcase page only | https://www.linkedin.com/showcase/huru-job-interview-preparation-app/ | Interview prep | AI roleplay / speech / sales |
