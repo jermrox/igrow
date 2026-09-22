@@ -78,3 +78,11 @@ Note: **Yoodli** appears on both lists — it straddles AI speech coaching and c
 | Sensei AI | Real-time AI interview copilot that transcribes questions and generates structured answers | https://www.linkedin.com/company/sensei-copilot | Interview prep |
 | Observe.AI | Live conversation intelligence for contact centers with coaching and QA copilots | https://www.linkedin.com/company/observeai | Conversation intelligence |
 | Chorus by ZoomInfo | Conversation intelligence that records and analyzes sales calls for coaching and deal insight | https://www.linkedin.com/company/chorus.ai | Conversation intelligence |
+
+## Sweep additions (auto-appended by the 3-hour sweep)
+
+| Date | Company | What it does | LinkedIn | Category | Front |
+| --- | --- | --- | --- | --- | --- |
+| 2026-09-22 | Rocky.ai | White-label AI coaching & personal-development platform (leadership, growth) with roleplay coaching | https://www.linkedin.com/company/rocky-ai | Coaching platform | Coaching / L&D |
+| 2026-09-22 | FullyRamped | Voice-AI sales roleplay + real-time coaching (Practice Prospects) to ramp reps (founded 2024) | UNVERIFIED — company LinkedIn page not found via search; resolve next sweep | Sales roleplay | AI roleplay / speech / sales |
+| 2026-09-22 | Trellus | AI dialer with real-time cold-call coaching for sales teams (YC W22) | https://www.linkedin.com/company/trytrellus | Conversation intelligence | AI roleplay / speech / sales |
