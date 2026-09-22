@@ -213,3 +213,6 @@ When a lead arrives tagged Source = Competitor Audience (sourced from a competit
 - No more than 4 touches total. Ever. After Touch 4, the lead is marked as completed regardless of outcome.
 - Each touch uses a different angle or hook. Repetition is not persistence -- it is laziness.
 - Minimum spacing between touches is 4 business days. Never send two touches in the same week.
+
+## Founder voice
+All drafts follow the iGrow house voice in `docs/voice.md` (Army + fresh-from-college leadership story; peer feedback that felt good but missed the critical fixes; warm, energetic, humble, never cocky). Formatting: no sentence-breaking dashes, use semicolons; under 200 words; one Calendly CTA.
