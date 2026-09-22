@@ -20,3 +20,6 @@ Every outreach email â€” and the Email Personalization agent / 3-hour pipeline â
 - Research-first: name the specific program/office by name; never generic "your university."
 - The offer is a partnership: free iGrow access, built into their coursework; practice for tomorrow's leaders.
 - No fabricated names or details; leave a clearly marked slot if unverified.
+
+## Greeting (always)
+Every email opens with a time-of-day greeting based on the moment it is sent: "Good morning," / "Good afternoon," / "Good evening,". Resolve it at send time using the recipient's local timezone when known, otherwise the sender's. Format: `Good morning [First name],` on its own line, then the body.
