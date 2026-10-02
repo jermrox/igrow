@@ -90,3 +90,5 @@ Note: **Yoodli** appears on both lists — it straddles AI speech coaching and c
 | 2026-09-22 | Practica | AI + human career coaching/mentorship (acquired by BetterUp) | https://www.linkedin.com/company/practicahq | Coaching platform | Coaching / L&D |
 | 2026-09-22 | Sana Labs | AI-native learning/L&D platform (now part of Workday) | https://www.linkedin.com/company/sana-labs | L&D platform | Coaching / L&D |
 | 2026-09-22 | Huru | AI job-interview prep app (20k+ questions, STAR); LinkedIn showcase page only | https://www.linkedin.com/showcase/huru-job-interview-preparation-app/ | Interview prep | AI roleplay / speech / sales |
+| 2026-10-02 | Evro AI | Psychologist-built AI coaching platform where managers rehearse high-stakes conversations (PIPs, terminations, feedback), scored against a standard with real-time compliance-risk flags | https://www.linkedin.com/company/evro-ai | AI roleplay | B |
+| 2026-10-02 | emerse.ai | Munich-based enterprise AI roleplay & coaching platform where sales and leadership teams practice difficult conversations with lifelike video avatars and get scored feedback | https://www.linkedin.com/company/emerse-ai | AI roleplay | B |
