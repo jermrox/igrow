@@ -111,3 +111,5 @@ Note: **Yoodli** appears on both lists — it straddles AI speech coaching and c
 | 2026-10-09 | VMock | AI career readiness platform for university career centers (resume and LinkedIn scoring, elevator pitch, readiness analytics); 250+ institutions | https://www.linkedin.com/company/vmock-inc | Coaching platform | A |
 | 2026-10-09 | Quinncia | AI resume and mock-interview feedback for college career services, used inside first-year courses | https://www.linkedin.com/company/quinncia | Interview prep | B |
 | 2026-10-10 | Interviewer.AI | AI video interview screening for recruiters, plus an AI interview-coaching platform sold to students and universities | https://www.linkedin.com/company/interviewerai | Interview prep | B |
+| 2026-10-12 | Qualiphi | Cairo career services platform for universities (500k+ students claimed), adding Speekr.ai AI roleplay for interview and workplace communication practice | https://www.linkedin.com/company/qualiphi | AI roleplay | B |
+| 2026-10-12 | SimSkills | Madrid AI roleplay simulator with conversational avatars for leadership, sales and soft skills | https://www.linkedin.com/company/simskills | AI roleplay | B |
